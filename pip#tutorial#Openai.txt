@@ -1,0 +1,20 @@
+pip install --upgrade openai
+
+pip install openai[embeddings]
+
+pip install openai[wandb]
+
+(venv) c:\ambiente-virtual\chat-gpt>pip show openai
+Name: openai
+Version: 0.27.8
+Summary: Python client library for the OpenAI API
+Home-page: https://github.com/openai/openai-python
+Author: OpenAI
+Author-email: support@openai.com
+License:
+Location: c:\ambiente-virtual\chat-gpt\openai-quickstart-python\venv\lib\site-packages
+Requires: aiohttp, requests, tqdm
+Required-by:
+
+
+Corrige o Error# gerado por ter diversas instalações do Python 
